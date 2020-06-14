@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
 
 namespace IreneApp.iOS
 {
@@ -24,7 +25,7 @@ namespace IreneApp.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
-
+            global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             return base.FinishedLaunching(app, options);
         }
     }

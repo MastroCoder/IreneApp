@@ -9,7 +9,7 @@ namespace IreneApp.Models
         Sacolas,
         Sobre
     }
-    public class HomeMenuItem
+    public class HomeMenuItem 
     {
         public MenuItemType Id { get; set; }
 

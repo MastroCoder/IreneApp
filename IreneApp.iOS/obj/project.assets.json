@@ -1082,11 +1082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.iOS\\IreneApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.iOS\\IreneApp.iOS.csproj",
       "projectName": "IreneApp.iOS",
-      "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.iOS\\IreneApp.iOS.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.iOS\\IreneApp.iOS.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1107,8 +1107,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
-              "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj"
+            "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
+              "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj"
             }
           }
         }

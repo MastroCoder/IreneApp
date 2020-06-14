@@ -38,5 +38,6 @@ namespace IreneApp.Views
         {
             await Navigation.PopModalAsync();
         }
+        
     }
 }

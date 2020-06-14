@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj": {}
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj": {
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj",
         "projectName": "IreneApp.MobileAppService",
-        "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\IreneApp.MobileAppService.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\obj\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.MobileAppService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

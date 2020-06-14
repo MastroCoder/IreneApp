@@ -35,5 +35,10 @@ namespace IreneApp.Views
             viewModel = new ItemDetailViewModel(item);
             BindingContext = viewModel;
         }
+
+        private void OnEditarSacolaClicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

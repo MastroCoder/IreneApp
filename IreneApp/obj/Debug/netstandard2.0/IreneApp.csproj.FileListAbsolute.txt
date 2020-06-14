@@ -18,3 +18,23 @@ C:\Users\felip\source\repos\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\
 C:\Users\felip\source\repos\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\ref\IreneApp.dll
 C:\Users\felip\source\repos\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.pdb
 C:\Users\felip\source\repos\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Temas\TemaClaro.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\bin\Debug\netstandard2.0\IreneApp.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\bin\Debug\netstandard2.0\IreneApp.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\bin\Debug\netstandard2.0\ref\IreneApp.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\bin\Debug\netstandard2.0\IreneApp.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Temas\TemaClaro.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\ref\IreneApp.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.csprojAssemblyReference.cache

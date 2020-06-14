@@ -602,11 +602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
       "projectName": "IreneApp",
-      "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

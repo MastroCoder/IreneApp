@@ -9,9 +9,8 @@
              x:Name="BrowseItemsPage">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add" Clicked="AddItem_Clicked" />
+        <ToolbarItem Text="Novo" Clicked="AddItem_Clicked" />
     </ContentPage.ToolbarItems>
-
     <StackLayout>
         <ListView x:Name="ItemsListView"
                 ItemsSource="{Binding Items}"
@@ -52,5 +51,4 @@
             </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
-    
 </ContentPage>

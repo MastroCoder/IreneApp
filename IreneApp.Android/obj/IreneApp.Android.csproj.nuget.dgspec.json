@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj": {}
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj": {
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj",
         "projectName": "IreneApp.Android",
-        "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.Android\\IreneApp.Android.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
-                "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj"
+              "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
+                "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
+    "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
         "projectName": "IreneApp",
-        "projectPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
+        "projectPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\IreneApp.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\source\\repos\\IreneApp\\IreneApp\\IreneApp\\obj\\",
+        "outputPath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\IreneApp\\IreneApp\\IreneApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
