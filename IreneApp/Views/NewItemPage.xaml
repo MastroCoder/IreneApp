@@ -20,6 +20,16 @@
             <Editor Text="{Binding Item.Description}" d:Text="Item description" FontSize="Small" Margin="0" />
             
         </StackLayout>
+        <!--<StackLayout>  deixando preparado pra quando a api estiver pronta
+            <ListView ItemsSource = "">
+                <ListView.ItemTemplate>
+                    <Image Source=""></Image>
+                    <Label Text="Nome"/>
+                    <Label Text="Preço"/>
+                    <Button Text="Adicionar" Clicked="OnAdicionarClicked"/>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>-->
     </ContentPage.Content>
-    
+  
 </ContentPage>

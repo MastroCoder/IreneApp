@@ -8,6 +8,17 @@
              Title="{Binding Title}">
 
     <StackLayout Spacing="20" Padding="15">
+    <!--<CollectionView x:Name="CollectionSacolas" ItemsSource="">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout HeightRequest="50" WidthRequest="200" 
+                                 Orientation="Horizontal" Padding="0,5,0,5">
+                        <Image Source=""/>
+                        <Label Text="" VerticalOptions="Center"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>-->
         <Label Text="Text:" FontSize="Medium" />
         <Label Text="{Binding Item.Text}" d:Text="Item name" FontSize="Small"/>
         <Label Text="Description:" FontSize="Medium" />
