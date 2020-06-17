@@ -29,6 +29,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ClassesAPI\" />
+    <Folder Include="ClassesDeDados\" />
   </ItemGroup>
 </Project>
