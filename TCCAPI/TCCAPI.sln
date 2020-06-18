@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCCAPI", "TCCAPI\TCCAPI.csproj", "{BC1C1C6D-6D8C-41A6-9CD9-584AE7E8A23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1C1C6D-6D8C-41A6-9CD9-584AE7E8A23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1C1C6D-6D8C-41A6-9CD9-584AE7E8A23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1C1C6D-6D8C-41A6-9CD9-584AE7E8A23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1C1C6D-6D8C-41A6-9CD9-584AE7E8A23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DA94AA-ABB9-46F6-B7B2-EF50D03AEB4E}
+	EndGlobalSection
+EndGlobal
