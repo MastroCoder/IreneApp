@@ -5,31 +5,32 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="IreneApp.Views.NewItemPage"
-             Title="New Item">
+             Title="Nova Sacola">
     
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
-        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+        <ToolbarItem Text="Cancelar" Clicked="Cancel_Clicked" />
+        <ToolbarItem Text="Salvar" Clicked="Save_Clicked" />
     </ContentPage.ToolbarItems>
     
     <ContentPage.Content>
-        <StackLayout Spacing="20" Padding="15">
+        <!--<StackLayout Spacing="20" Padding="15">
             <Label Text="Text" FontSize="Medium" />
             <Entry Text="{Binding Item.Text}" d:Text="Item name" FontSize="Small" />
             <Label Text="Description" FontSize="Medium" />
             <Editor Text="{Binding Item.Description}" d:Text="Item description" FontSize="Small" Margin="0" />
             
-        </StackLayout>
-        <!--<StackLayout>  deixando preparado pra quando a api estiver pronta
-            <ListView ItemsSource = "">
+        </StackLayout>-->
+        <StackLayout>
+            <SearchBar Placeholder="Procurar Produto..."></SearchBar>
+            <!--<ListView ItemsSource = "">
                 <ListView.ItemTemplate>
                     <Image Source=""></Image>
                     <Label Text="Nome"/>
                     <Label Text="Preço"/>
                     <Button Text="Adicionar" Clicked="OnAdicionarClicked"/>
                 </ListView.ItemTemplate>
-            </ListView>
-        </StackLayout>-->
+            </ListView>-->
+        </StackLayout>
     </ContentPage.Content>
   
 </ContentPage>
