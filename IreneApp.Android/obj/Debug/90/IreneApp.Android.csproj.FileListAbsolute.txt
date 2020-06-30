@@ -576,13 +576,9 @@ C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\values\colors.xml
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
-C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
-C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
-C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
@@ -1055,3 +1051,7 @@ C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
