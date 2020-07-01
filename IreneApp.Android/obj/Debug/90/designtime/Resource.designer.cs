@@ -7028,14 +7028,14 @@ namespace IreneApp.Droid
 			// aapt resource value: 0x7F06002A
 			public const int cardview_shadow_start_color = 2131099690;
 			
-			// aapt resource value: 0x7F050005
-			public const int colorAccent = 2131034117;
-			
-			// aapt resource value: 0x7F050003
-			public const int colorPrimary = 2131034115;
+			// aapt resource value: 0x7F050006
+			public const int colorAccent = 2131034118;
 			
 			// aapt resource value: 0x7F050004
-			public const int colorPrimaryDark = 2131034116;
+			public const int colorPrimary = 2131034116;
+			
+			// aapt resource value: 0x7F050005
+			public const int colorPrimaryDark = 2131034117;
 			
 			// aapt resource value: 0x7F06002B
 			public const int design_bottom_navigation_shadow_color = 2131099691;
@@ -7273,6 +7273,9 @@ namespace IreneApp.Droid
 			
 			// aapt resource value: 0x7F060077
 			public const int secondary_text_disabled_material_light = 2131099767;
+			
+			// aapt resource value: 0x7F050003
+			public const int splash_background = 2131034115;
 			
 			// aapt resource value: 0x7F060078
 			public const int switch_thumb_disabled_material_dark = 2131099768;
@@ -8281,6 +8284,9 @@ namespace IreneApp.Droid
 			// aapt resource value: 0x7F09005C
 			public const int design_snackbar_background = 2131296348;
 			
+			// aapt resource value: 0x7F010002
+			public const int icon = 2130771970;
+			
 			// aapt resource value: 0x7F090055
 			public const int ic_audiotrack_dark = 2131296341;
 			
@@ -8926,14 +8932,17 @@ namespace IreneApp.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F010003
+			public const int splashLayout = 2130771971;
+			
 			// aapt resource value: 0x7F09006F
 			public const int tooltip_frame_dark = 2131296367;
 			
 			// aapt resource value: 0x7F090070
 			public const int tooltip_frame_light = 2131296368;
 			
-			// aapt resource value: 0x7F010002
-			public const int xamarin_logo = 2130771970;
+			// aapt resource value: 0x7F010004
+			public const int xamarin_logo = 2130771972;
 			
 			static Drawable()
 			{
@@ -10868,8 +10877,11 @@ namespace IreneApp.Droid
 			// aapt resource value: 0x7F060003
 			public const int MainTheme_Base = 2131099651;
 			
+			// aapt resource value: 0x7F060006
+			public const int MyPopupMenu = 2131099654;
+			
 			// aapt resource value: 0x7F060005
-			public const int MyPopupMenu = 2131099653;
+			public const int MyTheme_Splash = 2131099653;
 			
 			// aapt resource value: 0x7F1600C6
 			public const int Platform_AppCompat = 2132148422;

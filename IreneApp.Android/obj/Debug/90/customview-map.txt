@@ -22,15 +22,20 @@ android.support.v7.widget.Toolbar;C:\Users\felip\OneDrive\Área de Trabalho\Iren
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\90\res\drawable\splashlayout.xml
 cache-path;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\drawable\splashlayout.xml
 color;obj\Debug\90\res\values\colors.xml
 external-cache-path;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\47\jl\res\layout\bottomtablayout.xml
+item;obj\Debug\90\res\drawable\splashlayout.xml
 item;obj\Debug\90\res\values\styles.xml
+layer-list;obj\Debug\90\res\drawable\splashlayout.xml
 LinearLayout;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\47\jl\res\layout\bottomtablayout.xml
+LinearLayout;obj\Debug\90\res\drawable\splashlayout.xml
 paths;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\lp\4\jl\res\values\input_styles.xml
 resources;obj\Debug\90\res\values\colors.xml
