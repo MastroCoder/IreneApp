@@ -36,7 +36,7 @@ namespace IreneApp.Views
             BindingContext = viewModel;
         }
 
-        private void OnEditarSacolaClicked(object sender, EventArgs e)
+        private void OnConfirmarVendaClicked(object sender, EventArgs e)
         {
 
         }

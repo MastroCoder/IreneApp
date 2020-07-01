@@ -114,6 +114,8 @@ class MonoPackageManager_Resources {
 		"FormsViewGroup.dll",
 		"IreneApp.dll",
 		"Newtonsoft.Json.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.InputKit.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

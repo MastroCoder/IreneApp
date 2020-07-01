@@ -6,8 +6,9 @@ namespace IreneApp.Models
 {
     public enum MenuItemType
     {
-        Sacolas,
-        Sobre
+        SacolaAberta,
+        SacolasFechadas, 
+        VendaAtual
     }
     public class HomeMenuItem 
     {

@@ -1,6 +1,8 @@
 FormsViewGroup
 IreneApp
 Newtonsoft.Json
+Plugin.CurrentActivity
+Plugin.InputKit
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime

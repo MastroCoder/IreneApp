@@ -21,7 +21,7 @@ namespace IreneApp.Views
 
             MasterBehavior = MasterBehavior.Popover;
 
-            MenuPages.Add((int)MenuItemType.Sacolas, (NavigationPage)Detail);
+            MenuPages.Add((int)MenuItemType.SacolaAberta, (NavigationPage)Detail);
         }
 
         public async Task NavigateFromMenu(int id)
@@ -30,11 +30,14 @@ namespace IreneApp.Views
             {
                 switch (id)
                 {
-                    case (int)MenuItemType.Sacolas:
+                    case (int)MenuItemType.SacolaAberta:
                         MenuPages.Add(id, new NavigationPage(new ItemsPage()));
                         break;
-                    case (int)MenuItemType.Sobre:
+                    case (int)MenuItemType.SacolasFechadas:
                         MenuPages.Add(id, new NavigationPage(new AboutPage()));
+                        break;
+                    case (int)MenuItemType.VendaAtual:
+                        MenuPages.Add(id, new NavigationPage(new VendaAtualPage()));
                         break;
                 }
             }

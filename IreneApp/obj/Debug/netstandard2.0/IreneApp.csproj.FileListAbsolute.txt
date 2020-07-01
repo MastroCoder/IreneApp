@@ -33,9 +33,10 @@ C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\n
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.csproj.CoreCompileInputs.cache
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.AssemblyInfoInputs.cache
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.AssemblyInfo.cs
-C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.dll
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\ref\IreneApp.dll
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.pdb
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\IreneApp.csprojAssemblyReference.cache
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\ProdutosSacolaPage.xaml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp\obj\Debug\netstandard2.0\Views\VendaAtualPage.xaml.g.cs

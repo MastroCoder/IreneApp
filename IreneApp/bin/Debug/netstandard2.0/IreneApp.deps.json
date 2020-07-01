@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "9a4a57d16de0f79ddf09693aea4344c617d58bc5"
+    "signature": "e87bff9512b579af831c089b7cff6f0b29d3c1a2"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,8 @@
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.0.0.425677"
+          "Xamarin.Forms": "4.0.0.425677",
+          "Xamarin.Forms.InputKit": "3.3.1"
         },
         "runtime": {
           "IreneApp.dll": {}
@@ -66,6 +67,14 @@
             "fileVersion": "2.0.0.0"
           }
         }
+      },
+      "Xamarin.Forms.InputKit/3.3.1": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.InputKit.dll": {
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
+          }
+        }
       }
     }
   },
@@ -116,6 +125,13 @@
       "sha512": "sha512-drwO/MimaMUnmvkULASYjU5MRciVIJyiLxD3ihFq8P+DWynQZ2NLNej0Vrs3k2L7UdmqvcgCxEJdfT7uFl2KVg==",
       "path": "xamarin.forms/4.0.0.425677",
       "hashPath": "xamarin.forms.4.0.0.425677.nupkg.sha512"
+    },
+    "Xamarin.Forms.InputKit/3.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kImnhvy5mTl5svTdXxOX2E/7utECIwPgimfvwrHqYrdtqcOqlfsDOIzFNYNU18+NojELPHrL23U6UofXBa8MCQ==",
+      "path": "xamarin.forms.inputkit/3.3.1",
+      "hashPath": "xamarin.forms.inputkit.3.3.1.nupkg.sha512"
     }
   }
 }

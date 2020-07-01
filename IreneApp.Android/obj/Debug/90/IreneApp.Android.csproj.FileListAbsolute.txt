@@ -1055,3 +1055,14 @@ C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
 C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\linksrc\Plugin.CurrentActivity.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\linksrc\Plugin.InputKit.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\assets\Plugin.InputKit.dll
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\AutoCompleteViewRenderer.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\BoxArrayAdapter.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\CustomFilter.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\EmptyEntryRenderer.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\NewIconViewRenderer.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md5ffeca0b21d3d64625b97da200d27681b\StatefulStackLayoutRenderer.java
+C:\Users\felip\OneDrive\Área de Trabalho\IreneApp\IreneApp\IreneApp.Android\obj\Debug\90\android\src\md52784b6b6564df579ab09ba8bad5c54dd\ActivityLifecycleContextListener.java

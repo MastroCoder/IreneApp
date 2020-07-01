@@ -17,7 +17,7 @@ namespace IreneApp.ViewModels
 
         public ItemsViewModel()
         {
-            Title = "Sacolas";
+            Title = "Sacola Atual";
             Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 

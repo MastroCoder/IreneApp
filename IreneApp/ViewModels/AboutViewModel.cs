@@ -9,7 +9,7 @@ namespace IreneApp.ViewModels
     {
         public AboutViewModel()
         {
-            Title = "Sobre";
+            Title = "Sacolas Fechadas";
 
             OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://xamarin.com/platform")));
         }

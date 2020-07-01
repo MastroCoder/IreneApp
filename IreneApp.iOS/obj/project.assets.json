@@ -158,13 +158,23 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.InputKit/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        }
+      },
       "IreneApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.0.0.425677"
+          "Xamarin.Forms": "4.0.0.425677",
+          "Xamarin.Forms.InputKit": "3.3.1"
         },
         "compile": {
           "bin/placeholder/IreneApp.dll": {}
@@ -331,13 +341,23 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.InputKit/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        }
+      },
       "IreneApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.0.0.425677"
+          "Xamarin.Forms": "4.0.0.425677",
+          "Xamarin.Forms.InputKit": "3.3.1"
         },
         "compile": {
           "bin/placeholder/IreneApp.dll": {}
@@ -504,13 +524,23 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.InputKit/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        }
+      },
       "IreneApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.0.0.425677"
+          "Xamarin.Forms": "4.0.0.425677",
+          "Xamarin.Forms.InputKit": "3.3.1"
         },
         "compile": {
           "bin/placeholder/IreneApp.dll": {}
@@ -677,13 +707,23 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
+      "Xamarin.Forms.InputKit/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.InputKit.dll": {}
+        }
+      },
       "IreneApp/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "Xamarin.Essentials": "1.1.0",
-          "Xamarin.Forms": "4.0.0.425677"
+          "Xamarin.Forms": "4.0.0.425677",
+          "Xamarin.Forms.InputKit": "3.3.1"
         },
         "compile": {
           "bin/placeholder/IreneApp.dll": {}
@@ -1059,6 +1099,25 @@
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
         "xamarin.forms.4.0.0.425677.nupkg.sha512",
         "xamarin.forms.nuspec"
+      ]
+    },
+    "Xamarin.Forms.InputKit/3.3.1": {
+      "sha512": "kImnhvy5mTl5svTdXxOX2E/7utECIwPgimfvwrHqYrdtqcOqlfsDOIzFNYNU18+NojELPHrL23U6UofXBa8MCQ==",
+      "type": "package",
+      "path": "xamarin.forms.inputkit/3.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid90/Plugin.InputKit.dll",
+        "lib/monoandroid90/Plugin.InputKit.xml",
+        "lib/netstandard1.0/Plugin.InputKit.dll",
+        "lib/netstandard1.0/Plugin.InputKit.xml",
+        "lib/netstandard2.0/Plugin.InputKit.dll",
+        "lib/netstandard2.0/Plugin.InputKit.xml",
+        "lib/xamarinios10/Plugin.InputKit.dll",
+        "lib/xamarinios10/Plugin.InputKit.xml",
+        "xamarin.forms.inputkit.3.3.1.nupkg.sha512",
+        "xamarin.forms.inputkit.nuspec"
       ]
     },
     "IreneApp/1.0.0": {

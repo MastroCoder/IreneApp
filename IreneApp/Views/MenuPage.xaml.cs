@@ -20,8 +20,9 @@ namespace IreneApp.Views
 
             menuItems = new List<HomeMenuItem>
             {
-                new HomeMenuItem {Id = MenuItemType.Sacolas, Title="Sacolas" },
-                new HomeMenuItem {Id = MenuItemType.Sobre, Title="Sobre" } //se precisar adicionar mai, ir na classe e colocar mais um no public enum 
+                new HomeMenuItem {Id = MenuItemType.SacolaAberta, Title="Sacola aberta" },
+                new HomeMenuItem {Id = MenuItemType.SacolasFechadas, Title="Sacolas fechadas" },
+                new HomeMenuItem {Id = MenuItemType.VendaAtual, Title="Venda atual" }//se precisar adicionar mai, ir na classe e colocar mais um no public enum 
             };
 
             ListViewMenu.ItemsSource = menuItems;
